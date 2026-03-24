@@ -21,5 +21,11 @@ abstract public class Introduction_03 implements interf{
 }
 }
  class subClass extends Introduction_03{
+
+    //we need to implement the m2() or else it will throw error
+	public void m2() {
+		
+		
+	}
 	 
  }
